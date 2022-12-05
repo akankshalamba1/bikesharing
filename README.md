@@ -1,2 +1,2 @@
 # bikesharing
-Analysis of citibike using Tableau
+Analysis of Citi bike using Tableau
