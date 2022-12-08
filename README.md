@@ -62,7 +62,7 @@ The visualization suggest that majority of the users are Male for Citibike. On w
 The data shows high activity of the bike sharing service in New York during the month of August 2019.
 The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
 
-Additional analysis would be beneficial by :
+Additional analysis would be beneficial :
 
 #### Busy End Location
 
