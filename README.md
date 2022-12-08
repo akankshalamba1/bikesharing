@@ -52,3 +52,5 @@ It is observed that the major customer for citibikes is Male. Both male and fema
 
 The visualization suggest that majority of the users are Male for Citibike. On weekdays citibike is more in demand as compared to the weekends.
 
+## Summary of the result
+
