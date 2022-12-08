@@ -18,15 +18,25 @@ Bike Utilization in New York City. Based on the Citibike data. It is observed th
 
 ### Checkout time of users
 
-![checkout_times](https://user-images.githubusercontent.com/111251560/206339264-2f65b387-7b5b-4e0e-910d-f9c4a9303d6e.png)
+![checkout_times](https://user-images.githubusercontent.com/111251560/206341349-cc9d55db-967b-4c4a-a21e-f4e975ad5c12.png)
 
 The analysis of trip duration per minute shows that most people use bike service for short trip less than 30 mins and the highest amount of trips are for 5 mins
 
 ### August Peak Time
 
-![august_peak_hours](https://user-images.githubusercontent.com/111251560/206340864-d640720b-68fc-4b2d-85ee-71391d9ab958.png)
+![august_peak](https://user-images.githubusercontent.com/111251560/206341334-55196257-43de-430c-aaed-718993171394.png)
 
 Analysis show that the most demand of bikes are during 4-7pm and 8am, whcih suggests that majority of the bike users are either work in offices or are studewnts as it aligns to the timing. 
 
+### Checkout time analyzed based on gender
 
+![checkout_time_by_gender](https://user-images.githubusercontent.com/111251560/206341681-04bb745b-2bff-4f63-947c-3e8755eb6cec.png)
+
+To further analyze riders information based on their gender the data was filters by gender. We can see that male use the bikes the most with 108,087 duration of trip by men. For Female the longest trips are for 7 mins time duration. For unknown gender the longest trips are for 11 mins time duration
+
+### Trips by Weekday per hour
+
+![trip_by_weekday](https://user-images.githubusercontent.com/111251560/206342718-08e562d5-db7d-4da0-b7f8-c1e059bcf455.png)
+
+In this analysis the data is filtered by Start and spot time based on the day of the week. It can observed that Thursday is the busiest day for citibike in New York City with total trip duration of 44,905 at 6pm. 
 
