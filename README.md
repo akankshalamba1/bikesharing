@@ -20,6 +20,12 @@ Bike Utilization in New York City. Based on the Citibike data. It is observed th
 
 ![checkout_times](https://user-images.githubusercontent.com/111251560/206339264-2f65b387-7b5b-4e0e-910d-f9c4a9303d6e.png)
 
+The analysis of trip duration per minute shows that most people use bike service for short trip less than 30 mins and the highest amount of trips are for 5 mins
+
+### August Peak Time
+
+![august_peak_hours](https://user-images.githubusercontent.com/111251560/206340864-d640720b-68fc-4b2d-85ee-71391d9ab958.png)
+
 Analysis show that the most demand of bikes are during 4-7pm and 8am, whcih suggests that majority of the bike users are either work in offices or are studewnts as it aligns to the timing. 
 
 
