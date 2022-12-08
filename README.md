@@ -9,7 +9,7 @@ The goal of the analysis is to convince our investors that a bike sharing progra
 
 ### Checkout time of users
 
-![Checkout_time](Resources/checkout_times.png)
+![checkout_times](https://user-images.githubusercontent.com/111251560/206339264-2f65b387-7b5b-4e0e-910d-f9c4a9303d6e.png)
 
 
 
