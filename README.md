@@ -40,3 +40,15 @@ To further analyze riders information based on their gender the data was filters
 
 In this analysis the data is filtered by Start and spot time based on the day of the week. It can observed that Thursday is the busiest day for citibike in New York City with total trip duration of 44,905 at 6pm. 
 
+### Trip by weekday per hour based on gender
+
+![trip_by_weekday_by_gender](https://user-images.githubusercontent.com/111251560/206343692-ecfdc9a0-84c9-448e-b0ad-204046fc14b8.png)
+
+It is observed that the major customer for citibikes is Male. Both male and female data shows that bike sharing is high in demand during 7am to 9am and 4pm to 7pm
+
+### User trip by day of the week
+
+![User_trip_by_gender by Weekday](https://user-images.githubusercontent.com/111251560/206344746-2b5e7c8a-6c01-4b89-a894-8e7ff6e237f0.png)
+
+The visualization suggest that majority of the users are Male for Citibike. On weekdays citibike is more in demand as compared to the weekends.
+
