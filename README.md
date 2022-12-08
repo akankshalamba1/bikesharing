@@ -5,12 +5,25 @@ Analysis of Citi bike using Tableau
 
 The goal of the analysis is to convince our investors that a bike sharing program is a solid business proposal. An analysis is carried out on an existing bike data from New York city company Citibike to figure out how the bike sharing works and show the profitability of a bike sharing business.
 
+Initial analysis include converting the csv file Tripduration column to DataTime data type
+- Initial data 
+
+![startcode](https://user-images.githubusercontent.com/111251560/206351575-bda80807-46d3-4ac5-88ef-dec5edcc77c0.png)
+
+- Tripduration_new column is created to be used for this analysis and the data file is exported
+
+![converted_file](https://user-images.githubusercontent.com/111251560/206351664-681f7e07-e162-4d16-bbb7-703d9427f328.png)
+
 NYC Citibike analysis dashboard
 
 ![NYC Citi Bike Dashboard](https://user-images.githubusercontent.com/111251560/206349680-ecb37ada-65dd-4677-bfb6-8f3173b45252.png)
 
 [link to the Dashboard](https://public.tableau.com/app/profile/akanksha.lamba/viz/NYCCitiBike_16702592602040/NYCCitiBike)
+
 ## Result of Analysis
+
+The csv file of the data was 
+[NYC_Citibike_Challenge File](NYC_Citibike_Challenge.ipynb)
 
 ### Link to the story: 
 [Link to NYC Tableau story](https://public.tableau.com/app/profile/akanksha.lamba/viz/NYCCitibikeAnalysis_16704632563000/NYCCitibikeAnalysis)
