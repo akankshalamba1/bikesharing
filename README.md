@@ -5,6 +5,11 @@ Analysis of Citi bike using Tableau
 
 The goal of the analysis is to convince our investors that a bike sharing program is a solid business proposal. An analysis is carried out on an existing bike data from New York city company Citibike to figure out how the bike sharing works and show the profitability of a bike sharing business.
 
+NYC Citibike analysis dashboard
+
+![NYC Citi Bike Dashboard](https://user-images.githubusercontent.com/111251560/206349680-ecb37ada-65dd-4677-bfb6-8f3173b45252.png)
+
+[link to the Dashboard](https://public.tableau.com/app/profile/akanksha.lamba/viz/NYCCitiBike_16702592602040/NYCCitiBike)
 ## Result of Analysis
 
 ### Link to the story: 
@@ -54,3 +59,15 @@ The visualization suggest that majority of the users are Male for Citibike. On w
 
 ## Summary of the result
 
+The data shows high activity of the bike sharing service in New York during the month of August 2019.
+The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+
+Additional analysis would be beneficial by :
+
+#### Busy End Location
+
+![busy_end_location](https://user-images.githubusercontent.com/111251560/206349435-3306c35a-4c48-4dbd-917b-29959c56002f.png)
+
+#### Further understanding of usertypes
+
+![trip_duration by gender of users](https://user-images.githubusercontent.com/111251560/206349582-72797040-4461-40f6-a155-dee00918cefb.png)
